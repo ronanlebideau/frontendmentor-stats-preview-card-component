@@ -74,7 +74,7 @@ h2 {
 
 /* IMAGE BLOCK */
 .head-img {
-    background: linear-gradient(to right, #aa5cdbb7, #aa5cdbb7), url(../stats-preview-card-component-main/images/image-header-mobile.jpg);
+    background: linear-gradient(to right, #aa5cdbb7, #aa5cdbb7), url(images/image-header-mobile.jpg);
     background-size: cover;
     height: 40vh;
     width: 100%;
